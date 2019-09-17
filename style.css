@@ -1,0 +1,15 @@
+th {
+	border-style: solid;
+	padding: 42px;
+}
+td a{
+	border-style: solid;
+	padding: 42px;
+	display: block;
+	text-decoration: none;
+	color: inherit;
+	background-color: #A9A9A9;
+}
+td a:hover {
+	background-color:  #808080;
+}
